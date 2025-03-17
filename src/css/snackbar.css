@@ -1,0 +1,16 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 300px; 
+    margin: 20px auto; 
+}
+
+.form label,
+.form fieldset,
+.form button {
+    margin-bottom: 10px; 
+}
+
+.form fieldset {
+    padding: 10px; 
+}
