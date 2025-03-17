@@ -1,0 +1,30 @@
+input {
+    margin-right: 26px;
+}
+
+.timer {
+    display: flex;
+    justify-content: center; 
+    gap: 15px;
+    padding: 10px;
+    background-color: white;
+    margin: 5px auto; 
+    width: fit-content; 
+}
+
+.field {
+    text-align: center;
+    padding: 10px;
+}
+
+.value {
+    font-size: 32px;
+    font-weight: bold;
+    display: block;
+}
+
+.label {
+    font-size: 12px;
+    display: block;
+    margin-top: 5px;
+}
